@@ -1,0 +1,16 @@
+display module give a simplified access to graphics 
+
+Usar display.c como una biblioteca mas, donde no es necesario saber en detalle como funciona
+cada funcion, sino que entender que hacen para despues poder aplicarlas en otros programas y
+hacer la ultima prueba
+
+Clave saber ocupar bien esta biblioteca ya que me servira para el ultimo trabajo de c
+
+RUN() => 
+lleva: un puntero a la pantalla creada, puntero de datos puntero a una funcion
+funcion de dibujo personalizado 
+no regresara hasta que el programa este a punto de finalizar 
+
+
+bool action(display*, void*, const char).
+last argument -> currently passed key 

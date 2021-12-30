@@ -1,0 +1,7 @@
+Advanced Concepts
+
+
+Union => 
+store different elements and data types in the same memory
+Store info in one type 
+

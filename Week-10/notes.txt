@@ -1,0 +1,8 @@
+DESIGN 
+
+GRID -> to store objects of any type. store generic entities   
+
+One main 
+
+
+
